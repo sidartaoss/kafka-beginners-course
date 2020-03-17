@@ -4,7 +4,7 @@
 
 * [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
 
-`CURRICULUM`
+`MAIN TOPICS`
 
 - Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
 - Master Concepts such as Topics, Partitions, Brokers, Producers, Consumers
